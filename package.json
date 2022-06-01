@@ -6,7 +6,7 @@
   "dependencies": {
     "install": "^0.13.0",
     "linux": "^4.2.1",
-    "sharp": "^0.23.1"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {},
   "scripts": {
